@@ -34,3 +34,6 @@ EXPOSE 5000
 
 CMD ["python", "app.py"]
 # 컨테이너가 시작될 때 실행할 명령이다.
+
+ENV APP_TITLE="수진이의 핑크 방명록" \
+    THEME_COLOR="#ec4899"
