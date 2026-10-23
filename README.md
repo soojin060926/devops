@@ -9,3 +9,5 @@ DevOps 수업 실습 기록 레포
 - [4주차](week4/README.md)
 - [5주차](week5/README.md)
 - [6주차](week6/README.md)
+- [7주차](week7/README.md)
+  
